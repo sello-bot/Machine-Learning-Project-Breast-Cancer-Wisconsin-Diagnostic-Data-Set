@@ -1,7 +1,5 @@
-# Machine-Learning-Project-Breast-Cancer-Wisconsin-Diagnostic-Data-Set
-Predict whether the cancer is benign or malignant
-
 # 🔬 Breast Cancer Wisconsin Diagnostic Dataset Classification 🎯
+Predict whether the cancer is benign or malignant
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![Machine Learning](https://img.shields.io/badge/ML-Classification-green.svg)](https://scikit-learn.org/)
@@ -48,13 +46,6 @@ For each core measurement, three statistical values are computed:
 - **Standard Error** (features 13-22) 
 - **Worst/Largest** values (features 23-32)
 
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-Python 3.7+
-pip install -r requirements.txt
-```
 
 ### 📁 Project Structure
 ```
@@ -73,24 +64,9 @@ breast-cancer-classification/
 ├── 📈 models/
 ├── 📋 results/
 └── 🖼️ plots/
+
 ```
 
-### 🔧 Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/breast-cancer-classification.git
-cd breast-cancer-classification
-```
-
-2. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Download dataset** (if using local data)
-   - Download from [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
-   - Or use Kaggle: `/kaggle/input/breast-cancer-wisconsin-data`
 
 ## 🤖 Machine Learning Models
 
@@ -109,25 +85,6 @@ pip install -r requirements.txt
 - ⚖️ **F1-Score**
 - 📋 **Confusion Matrix**
 - 📈 **ROC-AUC**
-
-## 🛠️ Usage
-
-### For Jupyter Notebook/Kaggle:
-```python
-# Run the main notebook
-jupyter notebook main.ipynb
-```
-
-### For Python Scripts:
-```python
-# Run the complete pipeline
-python src/main.py
-```
-
-### For VS Code:
-1. Open the project folder in VS Code
-2. Install Python extension
-3. Run `main.ipynb` or individual Python files
 
 ## 📈 Results
 
@@ -154,23 +111,13 @@ The project includes:
 2. **Dataset Source**: UCI Machine Learning Repository
    - URL: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-3. **Additional Access**: UW CS ftp server: `ftp.cs.wisc.edu/math-prog/cpo-dataset/machine-learn/WDBC/`
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Sello Kgole** - *Initial work* - [sello-bot](https://github.com/sello-bot)
 
 ## 🙏 Acknowledgments
 
@@ -181,9 +128,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@sello-bot](https://github.com/yourusername)
+- Email: skgole6@gmail.com
+- LinkedIn: [sello-kgole](https://www.linkedin.com/in/sello-kgole-ba450a295/)
 
 ---
 
